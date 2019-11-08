@@ -1,0 +1,1 @@
+[{"score": 1, "player_name": "1", "secret_number": "1", "wrong_nr": [], "date": "2019-11-08 23:13:09.187822"}, {"score": 2, "player_name": "tom", "secret_number": "1", "wrong_nr": [2], "date": "2019-11-08 23:13:43.772184"}, {"score": 6, "player_name": "Thomas", "secret_number": "1", "wrong_nr": [4, 3, 5, 6, 2], "date": "2019-11-08 23:14:53.771348"}]
